@@ -1,6 +1,6 @@
 🌿 Garden AI – Smart Plant Recommendation System
 
-Garden AI is an intelligent web-based application that suggests suitable plants based on real-time weather conditions and user space constraints. It helps users choose the right plants for their environment using AI-driven logic and live API data.
+Garden AI is an intelligent web-based application that suggests suitable plants based on real-time weather conditions and user space constraints. It helps users choose the right plants for their environment using AI-driven logic  and live API data.
 
 🚀 Features
 
